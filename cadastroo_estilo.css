@@ -1,0 +1,27 @@
+body {
+    background: #8283ac;
+    font-family: "Verdana", sans-serif, serif;
+    color: #FFFFFF;
+    font-size: larger;
+}
+
+#titulo {
+    color: #000000;
+    font-family: "Verdana", sans-serif, serif;
+    margin-top: 80px;
+    font-size: 60px;
+    margin-left: 440px;
+}
+
+#formulario {
+    margin-left: 580px;
+    margin-top: 100px;
+    margin-right: auto;
+    color: #000000;
+    font-family: "Verdana", sans-serif, serif;
+}
+ #cadastro{
+    font: #af5858;
+    font-family: "Verdana", sans-serif, serif;
+ }
+
