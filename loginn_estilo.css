@@ -1,0 +1,21 @@
+body {
+    background: #8283ac;
+}
+
+#titulo {
+    color: #000000;
+    font-family: "Verdana", sans-serif, serif;
+    margin-top: 150px;
+    font-size: 60px;
+    margin-left: 460px;
+}
+
+#usuario {
+    position: relative;
+    margin-top: 150px;
+    margin-right: auto;
+    margin-left: 580px;
+    font-family: "Verdana", sans-serif, serif;
+    color: #000000ee;
+}
+
